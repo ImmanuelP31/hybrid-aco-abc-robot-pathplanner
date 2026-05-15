@@ -1,4 +1,4 @@
-# 🐜🐝 Hybrid ACO-ABC Robot Path Planner
+#  Hybrid ACO-ABC Robot Path Planner
 
 
 **"An Efficient Hybrid ACO–ABC Approach for Robotic Path Planning"**  
@@ -16,7 +16,7 @@ Imagine you're a robot. You need to get from Point A to Point B, but there's a b
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 hybrid-aco-abc-robot-pathplanner/
@@ -48,7 +48,7 @@ hybrid-aco-abc-robot-pathplanner/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repo
 ```bash
@@ -77,7 +77,7 @@ You'll see a 50×50 grid environment with obstacles, and the robot's path get pr
 
 ---
 
-## 📊 How They Compare (from the paper)
+##  How They Compare 
 
 | Algorithm     | Path Cost | Iterations to Converge | Smoothness Index | Success Rate |
 |---------------|-----------|------------------------|------------------|--------------|
@@ -89,7 +89,7 @@ The hybrid converges faster AND finds better paths. That ~39% improvement is no 
 
 ---
 
-## ⚙️ Tweak the Parameters
+##  Tweak the Parameters
 
 In `main.py` you can mess with:
 
@@ -110,27 +110,27 @@ config = {
 
 ---
 
-## 🧪 Applications (from the paper)
+##  Applications 
 
 This same hybrid approach works surprisingly well across multiple domains:
 
-- 🤖 **Autonomous Robots** — navigate cluttered warehouses, rough terrain
-- 🚗 **Smart Traffic** — real-time route optimization for fleets
-- 🏭 **Manufacturing** — AGV scheduling, job shop planning
-- ⚡ **Energy Grids** — power flow optimization
-- 🏥 **Healthcare** — OR scheduling, resource allocation
-- 🆘 **Search & Rescue** — multi-robot coordination in disaster zones
-- 📡 **Telecom Networks** — WSN routing optimization
+-  **Autonomous Robots** — navigate cluttered warehouses, rough terrain
+-  **Smart Traffic** — real-time route optimization for fleets
+-  **Manufacturing** — AGV scheduling, job shop planning
+-  **Energy Grids** — power flow optimization
+-  **Healthcare** — OR scheduling, resource allocation
+-  **Search & Rescue** — multi-robot coordination in disaster zones
+-  **Telecom Networks** — WSN routing optimization
 
 ---
 
-## 📖 Read the Paper (Simplified)
+##  Read the Paper 
 
 Check out [`docs/paper_summary.md`](docs/paper_summary.md) for a plain-English breakdown of the research.
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - Python 3.9+
 - NumPy — number crunching
@@ -138,21 +138,6 @@ Check out [`docs/paper_summary.md`](docs/paper_summary.md) for a plain-English b
 - SciPy — spline smoothing for nicer trajectories
 - Jupyter — interactive demo notebook
 
----
-
-## 📜 Citation
-
-If you use this in your own work, please credit the original authors:
-
-```
-Mullai Aghalya T., Bavya J., Sahaana M., Immanuel P., Raja S.P.
-"An Efficient Hybrid ACO–ABC Approach for Robotic Path Planning"
-Vellore Institute of Technology, Vellore, Tamil Nadu, India.
-```
-
----
-
-## 🤝 Contributing
 
 Pull requests welcome! If you find a bug, open an issue. If you want to add a new application domain or tweak the algorithm, fork away.
 
