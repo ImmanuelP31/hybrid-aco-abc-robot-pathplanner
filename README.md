@@ -1,15 +1,12 @@
 # 🐜🐝 Hybrid ACO-ABC Robot Path Planner
 
-> *What happens when ants and bees team up to help robots find their way? Turns out — pretty good things.*
-
-This project implements a **Hybrid Ant Colony Optimization + Artificial Bee Colony (ACO-ABC)** algorithm for robotic path planning. It's based on the research paper:
 
 **"An Efficient Hybrid ACO–ABC Approach for Robotic Path Planning"**  
 
 
 ---
 
-## 🤔 Wait, What Even Is This?
+## What Is This?
 
 Imagine you're a robot. You need to get from Point A to Point B, but there's a bunch of stuff in the way. How do you find the best path?
 
