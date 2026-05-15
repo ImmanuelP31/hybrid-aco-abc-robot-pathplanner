@@ -5,8 +5,7 @@
 This project implements a **Hybrid Ant Colony Optimization + Artificial Bee Colony (ACO-ABC)** algorithm for robotic path planning. It's based on the research paper:
 
 **"An Efficient Hybrid ACO–ABC Approach for Robotic Path Planning"**  
-*T. Mullai Aghalya, J. Bavya, M. Sahaana, P. Immanuel, S.P. Raja*  
-School of Computer Science and Engineering, VIT Vellore
+
 
 ---
 
