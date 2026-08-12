@@ -52,7 +52,7 @@ hybrid-aco-abc-robot-pathplanner/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/hybrid-aco-abc-robot-pathplanner.git
+git clone https://github.com/ImmanuelP31/hybrid-aco-abc-robot-pathplanner.git
 cd hybrid-aco-abc-robot-pathplanner
 ```
 
